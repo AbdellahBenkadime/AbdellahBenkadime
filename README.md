@@ -12,7 +12,7 @@
 
 ## 🧰 Tools & Technologies
 💻 Programming: C / C++ / Python (learning & improving)  
-📐 Engineering & Simulation: MATLAB, SolidWorks (basic knowledge)  
+📐 Engineering & Simulation: MATLAB, SolidWorks (learning & improving) 
 🔬 Strong background in Math & Physics  
 
 ---
