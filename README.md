@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋 I'm Abdullah
 
-<!--
-**AbdellahBenkadime/AbdellahBenkadime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Who am I?
+🎓 Engineering student in **Mechatronics & Automotive Engineering**  
+🧠 Passionate about **Mathematics, Physics, and Programming**  
+🔧 Interested in technology, automation, and problem solving  
 
-Here are some ideas to get you started:
+## 🛠️ What am I currently working on?
+📚 Developing my engineering skills  
+💻 Learning and building programming & technical projects  
+⚙️ Exploring automotive systems and mechatronics applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tools & Technologies
+💻 Programming: C / C++ / Python (learning & improving)  
+📐 Engineering & Simulation: MATLAB, SolidWorks (basic knowledge)  
+🔬 Strong background in Math & Physics  
+
+---
+⭐ Always learning, building, and improving
